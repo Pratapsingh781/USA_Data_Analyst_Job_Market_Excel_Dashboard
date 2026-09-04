@@ -219,7 +219,6 @@ How does average salary vary by seniority level?
 ## 👨‍💻 Author
 ## 👨‍💻 PRATAP SINGH RANAWAT
 
-## Data Analyst | Microsoft Excel | SQL | Python | Data Visualization
 
 ## 📌 GitHub Profile: https://github.com/Pratapsingh781
 
