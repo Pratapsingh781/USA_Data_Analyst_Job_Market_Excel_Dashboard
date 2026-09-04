@@ -216,23 +216,23 @@ Which seniority level has the most job postings?
 How are job postings distributed across salary ranges?
 How does job posting volume change over time?
 How does average salary vary by seniority level?
-👨‍💻 Author
-PRATAP SINGH RANAWAT
+## 👨‍💻 Author
+## 👨‍💻 PRATAP SINGH RANAWAT
 
-Data Analyst | Microsoft Excel | SQL | Python | Data Visualization
+## Data Analyst | Microsoft Excel | SQL | Python | Data Visualization
 
-📌 GitHub Profile: https://github.com/Pratapsingh781
+## 📌 GitHub Profile: https://github.com/Pratapsingh781
 
-⭐ If You Like This Project
+## ⭐ If You Like This Project
 
 If you found this project useful or interesting, consider giving the repository a ⭐.
 
 Your feedback and support are greatly appreciated!
 
-🙏 Thank You
+## 🙏 Thank You
 
 Thank you for taking the time to explore this project.
 
 I hope this dashboard provides a clear and useful view of the USA Data Analyst Job Market and demonstrates the practical application of Excel for data analysis and visualization.
 
-Thank you for visiting! 🚀
+## Thank you for visiting! 🚀
