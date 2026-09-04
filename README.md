@@ -180,17 +180,16 @@ The dashboard contains:
 ## 📂 Project Structure
 
 ```text
-Data-Analyst-Job-Market-Excel-Dashboard/
+📦 USA_Data_Analyst_Job_Market_Excel_Dashboard/
 │
-├── Data_Analyst_Job_Market_Dashboard.xlsx
-│
-├── dashboard.png
-├── kpi-cards.png
-├── slicers.png
-├── insights.png
-├── hiring-location-analysis.png
-│
-└── README.md
+├── 📊 USA-Data-Analyst-Job-Market-Dashboard.xlsx
+├── 🖼️ dashboard.png
+├── 🖼️ kpi-cards.png
+├── 🖼️ slicers.png
+├── 🖼️ insights.png
+├── 🖼️ hiring-location-analysis.png
+└── 📄 README.md
+```
 
 🎯 Project Objective
 
